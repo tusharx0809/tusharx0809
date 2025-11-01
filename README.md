@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://github.com/tusharBytes404/tusharBytes404/blob/main/intro_gif.gif?raw=true" alt="Intro GIF" />
-</p>
+
 
 
 <h2 align="center">🚀 About Me</h2>
