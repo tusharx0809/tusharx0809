@@ -1,13 +1,7 @@
 
 
 
-<h2 align="center">🚀 About Me</h2>
-
-<h3>✨ <span style="color:#f39c12">Passionate about technology</span> — I hold a <i>Bachelor's degree in Computer Science and Engineering</i>.</h3>
-<h3>🛠 <span style="color:#27ae60">Experienced Software Engineer</span> — Skilled in <b>Informatica</b>, <b>SQL Server</b>, <b>PowerBI</b>, and various other technologies.</h3>
-<h3>📐 <span style="color:#9b59b6">Avid lover of mathematics and programming</span>, always seeking to solve complex problems with elegant solutions.</h3>
-<h3>🤝 <span style="color:#3498db">Joined this vibrant community</span> to collaborate, contribute, and build innovative solutions.</h3>
-
+<h2 align="center">🚀 Curious about how a piece of code interacts with hardware</h2>
 
 <br><br><br> 
 
