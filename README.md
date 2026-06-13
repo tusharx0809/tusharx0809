@@ -1,10 +1,4 @@
 
-
-
-<h2 align="center">Curious about how a piece of code interacts with hardware</h2>
-
-
-
 <pre> ``` 
 /* _Digital World Life Code_ */
 
